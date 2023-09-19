@@ -4,7 +4,7 @@
   "description": "evento para o meu proximo",
   "scripts": {
     "start": "parcel src/index.html src/scss/main.scss src/js/index.js",
-    "build": "parcel src/index.html"
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
