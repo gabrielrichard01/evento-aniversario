@@ -2,7 +2,6 @@
   "name": "evento-aniversario",
   "version": "1.0.0",
   "description": "evento para o meu proximo",
-  "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html src/scss/main.scss src/js/index.js",
     "build": "parcel src/index.html"
